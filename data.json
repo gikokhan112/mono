@@ -1,0 +1,26 @@
+{
+    "apps": [
+        {
+            "title": "Cool App 1",
+            "description": "This is a fantastic app for productivity.",
+            "link": "coolapp1.apk"
+        },
+        {
+            "title": "Amazing App 2",
+            "description": "A great app for entertainment.",
+            "link": "amazingapp2.apk"
+        }
+    ],
+    "articles": [
+        {
+            "title": "Top 5 Apps of 2024",
+            "description": "A guide to the best apps this year.",
+            "link": "top-5-apps.html"
+        },
+        {
+            "title": "Tech Trends",
+            "description": "Emerging trends in technology.",
+            "link": "tech-trends.html"
+        }
+    ]
+}
